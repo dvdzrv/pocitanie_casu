@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695652065 source:e:\codeblock\pocitaniee_casu\main.c
+	<stdio.h>
+	<stdlib.h>
+
