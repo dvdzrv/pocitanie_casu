@@ -34,5 +34,7 @@ int main()
     //Vysledok, 7.
         printf("Cas kolko ti to trvalo: %d:%d", result_hour, result_minute);
 
-    return 0;
+        printf("\nPress ENTER key to END\n");
+        getch();
+        return 0;
 }
